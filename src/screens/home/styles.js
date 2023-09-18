@@ -19,4 +19,8 @@ export const Image = styled.Image`
 export const Text = styled.Text`
     font-size: 20px;
     color: ${colors.light};
+    font-weight: bold;
+    text-transform: uppercase;
+    text-decoration: underline;
+    
 `;
